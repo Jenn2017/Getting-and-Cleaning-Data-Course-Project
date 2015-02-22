@@ -44,9 +44,7 @@ from the Subject data (both train and test files) - V1 which are the numbers cor
 
 from the Labels data (both train and test files) - V1 which are the labels associated with each activity
 
-from the Activity data - V1 which are the labels associated with each activity
-
-			V2 The activity names
+from the Activity data - V1 which are the labels associated with each activity; V2 The activity names
 
 from the features data - the variable names for the test and train data (X_test.txt,y_test.txt,X_train.txt,y_train.txt files)
 	                see the features_info.txt file in the zip folder UCI HAR Dataset - download in part 1
