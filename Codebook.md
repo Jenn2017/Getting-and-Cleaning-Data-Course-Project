@@ -35,7 +35,7 @@ Part 4 - Tidy Data.txt - text file created as a result of run_analysis.R. It pro
 	A wide tidy data set was chosen as we are required to compute the group mean of each variable.
 
 Part 5 - Group Means.txt  - text file created as a result of run_analysis.R. It provides the group means with the average 
-                        of each variable for each activity and each subject.
+                        of each variable for each activity and each subject. Read using text editor like Notepad++ for better 			display
 
 
 INITIAL VARIABLES
