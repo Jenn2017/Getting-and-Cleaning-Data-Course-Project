@@ -52,7 +52,7 @@ run_analysis.R - R script which gets and cleans data creating a tidy data set an
 Part 4 - Tidy Data.txt - text file created as a result of run_analysis.R. It provides a wide tidy data set.
 
 Part 5 - Group Means.txt  - text file created as a result of run_analysis.R. It provides the group means with the average 
-                        of each variable for each activity and each subject.
+                        of each variable for each activity and each subject. Read using text editor like Notepad++ for better 			                 display
 
 Codebook.txt  - details the variables, transformations and steps used to create tidy data
 
